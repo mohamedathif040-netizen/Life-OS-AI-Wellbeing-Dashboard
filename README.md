@@ -38,7 +38,7 @@ Designed as part of the **MirAI School of Technology – AI Builder Track Capsto
 
 # 🖼 Dashboard Preview
 
-```
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
@@ -46,7 +46,6 @@ Designed as part of the **MirAI School of Technology – AI Builder Track Capsto
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
-```
 
 ---
 
