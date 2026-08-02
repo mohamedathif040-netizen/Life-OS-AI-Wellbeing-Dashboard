@@ -38,12 +38,14 @@ Designed as part of the **MirAI School of Technology – AI Builder Track Capsto
 
 # 🖼 Dashboard Preview
 
-> Add screenshots after deployment.
-
 ```
-assets/dashboard.png
-assets/ai_coach.png
-assets/avatar.png
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 ```
 
 ---
@@ -222,10 +224,8 @@ This project demonstrates:
 
 **Streamlit App**
 
-> Add your deployment URL here.
-
 ```
-https://YOUR-APP.streamlit.app
+https://life-os-ai-wellbeing.streamlit.app/
 ```
 
 ---
